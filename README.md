@@ -1,2 +1,1 @@
-=== Mihai =======
-git CLI test repository.
+Ana has apples
