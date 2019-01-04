@@ -1,3 +1,3 @@
 Ana has apples
 
-blue ones
+blue and green ones 
