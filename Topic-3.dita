@@ -5,7 +5,8 @@
     <body>
         <p><?oxy_insert_start author="Mihai Coanda" timestamp="20190402T134811+0300"?>ana are mere,
             <?oxy_comment_start author="Mihai Coanda" timestamp="20190402T135102+0300" comment="my comment"?>ciresel
-            vine si cere<?oxy_comment_end?><?oxy_insert_end?></p>
+            vine si
+            cer<?oxy_insert_end?>s<?oxy_insert_start author="Mihai Coanda" timestamp="20190402T134811+0300"?>e<?oxy_comment_end?><?oxy_insert_end?></p>
         <table id="table_byr_2vh_hhb">
             <title>my title</title>
             <tgroup cols="2">
