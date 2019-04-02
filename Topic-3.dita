@@ -3,21 +3,23 @@
 <topic id="topic_cft_xph_hhb">
     <title>DAFSSDKJ</title>
     <body>
-        <p></p>
-        <table id="table_swc_55h_hhb">
-            <title>asdsgfr</title>
+        <p><?oxy_insert_start author="Mihai Coanda" timestamp="20190402T134811+0300"?>ana are mere,
+            <?oxy_comment_start author="Mihai Coanda" timestamp="20190402T135102+0300" comment="my comment"?>ciresel
+            vine si cere<?oxy_comment_end?><?oxy_insert_end?></p>
+        <table id="table_byr_2vh_hhb">
+            <title>my title</title>
             <tgroup cols="2">
                 <colspec colname="c1" colnum="1" colwidth="1*"/>
                 <colspec colname="c2" colnum="2" colwidth="1*"/>
                 <thead>
                     <row>
-                        <entry>adsfdesw</entry>
-                        <entry>swqrfew</entry>
+                        <entry/>
+                        <entry/>
                     </row>
                 </thead>
                 <tbody>
                     <row>
-                        <entry>frewfr</entry>
+                        <entry/>
                         <entry/>
                     </row>
                     <row>
@@ -31,5 +33,7 @@
                 </tbody>
             </tgroup>
         </table>
+        <?oxy_attributes alt="&lt;change type=&quot;inserted&quot; author=&quot;Mihai Coanda&quot; timestamp=&quot;20190402T134420+0300&quot; /&gt;"?>
+        <image href="anchor%402x.png" id="image_yp1_qwh_hhb" alt="my alt value"/>
     </body>
 </topic>
