@@ -1,0 +1,138 @@
+{"samples": [
+    {
+        "name": "Simple DITA Topic",
+        "labels": "DITA, Keys",
+        "path": "dita/flowers/topics/flowers/gardenia.dita",
+        "ditamap": "dita/flowers/flowers.ditamap",
+        "image": ".descriptor/images/dita_flowers_topics_flowers_gardenia.png"
+    },
+    {
+        "name": "Simple DITA Map",
+        "labels": "DITA",
+        "path": "dita/flowers/flowers.ditamap",
+        "image": ".descriptor/images/dita_flowers_flowers.png"
+    },
+    {
+        "name": "DITA Profiling",
+        "labels": "DITA, Profiling",
+        "path": "dita/mobile-phone/topics/Specifications.dita",
+        "ditamap": "dita/mobile-phone/mobilePhone.ditamap",
+        "image": ".descriptor/images/dita_mobile-phone_mobilePhone.png"
+    },
+    {
+        "name": "Lightweight DITA Topic",
+        "labels": "Lightweight DITA",
+        "path": "dita/lw-dita/topics/flowers/snowdrop.dita",
+        "image": ".descriptor/images/dita_lw-dita_topics_flowers_snowdrop.png"
+    },
+    {
+        "name": "Lightweight DITA Map",
+        "labels": "Lightweight DITA",
+        "path": "dita/lw-dita/flowers.ditamap",
+        "image": ".descriptor/images/dita_lw-dita_flowers.png"
+    },
+    {
+        "name": "Image Map",
+        "labels": "DITA, Image Map",
+        "path": "dita/image-map/topics/gear-pump.dita",
+        "ditamap": "dita/image-map/gear-pump.ditamap",
+        "image": ".descriptor/images/dita_image-map_topics_gear-pump.png"
+    },
+    {
+        "name": "MathML and SVG",
+        "labels": "MathML, SVG, Docbook",
+        "path": "docbook/v5/sampleMathMLandSVG.xml",
+        "image": ".descriptor/images/docbook_v5_sampleMathMLandSVG.png"
+    },
+    {
+        "name": "Travel Guide",
+        "labels": "Guided Authoring",
+        "path": "form-controls/travel-guide/travel-guide.xml",
+        "image": ".descriptor/images/form-controls_travel-guide_travel-guide.png"
+    },
+    {
+        "name": "Embeded Video Sample",
+        "labels": "DITA, Embeded Video",
+        "path": "dita/space-videos/topics/aeronautics.dita",
+        "ditamap": "dita/space-videos/space-videos.ditamap",
+        "image": ".descriptor/images/dita_space-videos_topics_aeronautics.png"
+    },
+    {
+        "name": "Quick Fixes",
+        "labels": "Quick Fixes, DITA",
+        "path": "quick-fixes/flowers.xml",
+        "image": ".descriptor/images/quick-fixes_flowers.png"
+    },
+    {
+        "name": "DocBook Article",
+        "labels": "DocBook",
+        "path": "docbook/v5/sample.xml",
+        "image": ".descriptor/images/docbook_v5_sample.png"
+    },
+    {
+        "name": "XHTML",
+        "labels": "XHTML",
+        "path": "xhtml/sample.xml",
+        "image": ".descriptor/images/xhtml_sample.png"
+    },
+    {
+        "name": "TEI",
+        "labels": "TEI",
+        "path": "tei/TEI-P5.xml",
+        "image": ".descriptor/images/tei_TEI-P5.png"
+    },
+    {
+        "name": "Journal of TEI",
+        "labels": "TEI",
+        "path": "jtei/DEMOjtei-8-eide-source.xml",
+        "image": ".descriptor/images/jtei_DEMOjtei-8-eide-source.png"
+    },
+    {
+        "name": "Markdown to DITA",
+        "labels": "Quick Fixes, DITA, Markdown",
+        "path": "ditamark/sample.dita",
+        "image": ".descriptor/images/ditamark_sample.png"
+    },
+    {
+        "name": "LegalDocML",
+        "labels": "Custom Schema",
+        "path": "legaldoc/eu_COM(2013)0619_EN-8.xml",
+        "image": ".descriptor/images/legaldoc_eu_COM(2013)0619_EN-8.png"
+    },
+    {
+        "name": "Language Book",
+        "labels": "Custom Schema",
+        "path": "languageBook/TheLanguageOfContentStrategy.xml",
+        "image": ".descriptor/images/languageBook_TheLanguageOfContentStrategy.png"
+    },
+    {
+        "name": "Learning and Training",
+        "labels": "DITA, Specialization",
+        "path": "dita/learning/testlearningAssess.dita",
+        "image": ".descriptor/images/dita_learning_testlearningAssess.png"
+    },
+    {
+        "name": "Bi-directional Text",
+        "labels": "RTL, BiDi, DITA",
+        "path": "dita/cereals/cereal-ar.dita",
+        "image": ".descriptor/images/dita-cereals.png"
+    },
+    {
+        "name": "Chinese Content",
+        "labels": "CJK, DITA",
+        "path": "dita/xml-specification/topic.dita",
+        "image": ".descriptor/images/dita-xml-specialization.png"
+    },
+    {
+        "name": "Japanese Content",
+        "labels": "CJK, DITA",
+        "path": "dita/camellia-species/camelia.dita",
+        "image": ".descriptor/images/dita-camelia.png"
+    },
+    {
+        "name": "Korean Content",
+        "labels": "CJK, DITA",
+        "path": "dita/desert/desert.dita",
+        "image": ".descriptor/images/dita-desert.png"
+    }
+]}
